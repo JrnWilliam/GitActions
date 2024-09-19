@@ -1,0 +1,11 @@
+key: Hola Mundo
+
+Persona:
+  nombre: William
+  edad: 32
+  ciudad: Chichigalpa
+  items:
+    - item 1
+    - item 2
+    - item 3
+  
